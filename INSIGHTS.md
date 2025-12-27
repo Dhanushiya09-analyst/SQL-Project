@@ -97,5 +97,3 @@
 ---
 ## Conclusion
 This SQL-based analysis demonstrates how structured data analysis can convert transactional data into actionable business insights. The findings support data-driven decisions across pricing, inventory planning, customer retention, regional expansion, and payment optimization.
-## Conclusion
-This SQL-based analysis demonstrates how structured data analysis can convert transactional data into actionable business insights. The findings support data-driven decisions across pricing, inventory planning, customer retention, regional expansion, and payment optimization.
